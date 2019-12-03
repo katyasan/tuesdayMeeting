@@ -1,5 +1,7 @@
 package tuesday;
 
+import javax.crypto.spec.PSource;
+
 public class Practice {
     public static void main(String[] args) {
 
@@ -18,12 +20,20 @@ public class Practice {
         System.out.println(x);
 =======
         System.out.println("sgfjfgjh");
+<<<<<<< Updated upstream
 
     }
     public void Gleb(){
         System.out.println("Gleb");
 >>>>>>> Stashed changes
     }
+=======
+        System.out.println( " nassim ");
+
+    }
+
+
+>>>>>>> Stashed changes
 
 }
 
