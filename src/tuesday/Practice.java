@@ -6,5 +6,16 @@ public class Practice {
         System.out.println("sgfjfgjh");
         System.out.println("Kanykei is.....");
 
+
+
+        System.out.println("sgfjfgjh");
+
+    System.out.println("Hi,guys");
+
+        int x = 9;
+        System.out.println("Hello again");
+        System.out.println(x);
     }
+
 }
+
